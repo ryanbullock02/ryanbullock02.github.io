@@ -13,5 +13,5 @@ Description: This will be my school account where my repositories for CTI.110 wi
      - My interests are primarily video games in 3D printing, I've worked in CAM for a manufacturing company for a few years now so while it blends work and home interests I still enjoy my time.
 
 ## Websites I recommend
-	- [Thingiverse] (https://www.thingiverse.com) - Thingiverse is a site where a lot of people have uploaded a lot of cool STLs that are free to use mainly for 3D printing.
-	- [GeeksforGeeks] (https://www.geeksforgeeks.org) - As a computer science student GeeksforGeeks has a lot of easily digestible information where I find that stackoverflow can be a bit too highlevel sometimes.
+	- [Thingiverse](https://www.thingiverse.com) - Thingiverse is a site where a lot of people have uploaded a lot of cool STLs that are free to use mainly for 3D printing.
+	- [GeeksforGeeks](https://www.geeksforgeeks.org) - As a computer science student GeeksforGeeks has a lot of easily digestible information where I find that stackoverflow can be a bit too highlevel sometimes.
