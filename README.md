@@ -14,4 +14,4 @@ Description: This will be my school account where my repositories for CTI.110 wi
 
 ## Websites I recommend
 	- [Thingiverse](https://www.thingiverse.com) - Thingiverse is a site where a lot of people have uploaded a lot of cool STLs that are free to use mainly for 3D printing.
-	- [GeeksforGeeks](https://www.geeksforgeeks.org) - As a computer science student GeeksforGeeks has a lot of easily digestible information where I find that stackoverflow can be a bit too highlevel sometimes.
+	- [GeeksforGeeks](www.geeksforgeeks.org) - As a computer science student GeeksforGeeks has a lot of easily digestible information where I find that stackoverflow can be a bit too highlevel sometimes.
