@@ -19,5 +19,5 @@ Description: This will be my school account where my repositories for CTI.110 wi
      [GeeksforGeeks](www.geeksforgeeks.org) - As a computer science student [GeeksforGeeks](www.geeksforgeeks.org) has a lot of easily digestible information where I find that stackoverflow can be a bit too highlevel sometimes.
 
 
-
+[www.geeksforgeeks.org]
 [https://www.thingiverse.com]
