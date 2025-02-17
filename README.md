@@ -9,8 +9,7 @@ Description: This will be my school acount where my repositories for CTI.110 wil
 ## I have taken a Java class but to be honest its not really my preferred language.
 
 ## My Interests
-## My interests are primarily video games in 3D printing, I've worked in CAM for a manufacturing company for a few years now so while it blends
-## work and home interests I still enjoy my time.
+     - My interests are primarily video games in 3D printing, I've worked in CAM for a manufacturing company for a few years now so while it blends work and home interests I still enjoy my time.
 
 ## Websites I recommend
 	- [Thingiverse] (https://www.thingiverse.com) - Thingiverse is a site where a lot of people have uploaded a lot of cool STLs that are free to use mainly for 3D printing.
